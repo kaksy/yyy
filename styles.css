@@ -1,0 +1,78 @@
+
+.container{
+    background-color: rgb(192, 209, 212);
+    transform: skewy(3deg);
+    height: 20rem;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 30px;
+    position: relative;
+    top: 50px;
+    width: 60%;
+
+}
+.content{
+    width: 80%;
+    height: 30rem;
+    border-radius: 20px;
+    position: absolute;
+    top: 94.1px;
+    left: 30px;
+    text-align: center;
+    text-align: left;
+    border: 1px solid black;
+    z-index: 1;
+    background-color: white;
+    opacity: 0.6;
+
+}
+/* nav{
+    text-decoration: none;
+} */
+ul{
+    list-style-type: none;
+}
+.top-bar{
+  
+    margin-left: 330px;
+}
+/* #line{
+    display: flex;
+} */
+.xline{
+    display: flex;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.it{
+    text-decoration: none;
+    margin-left: 14px;
+}
+/* .item-drop{
+    margin-left: auto;
+} */
+.fa-google{
+    position: relative;
+    top: 50px;;
+    right: 208px;
+    font-size: 40px;
+}
+#click{
+    width: 100%;
+    height: 40px;
+    color: white;
+    background-color: blue;
+    margin-left: 70px;
+}
+nav{
+    width: 100%;
+}
+.div3{
+    
+}
+.crypto{
+    font-family: cursive;
+   color: blue;
+}
